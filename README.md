@@ -160,7 +160,7 @@ able to reproduce the assessment.
 - Network: GenLayer Studio stable (`studionet`)
 - Deployment status: `FINALIZED`
 - Explorer:
-  https://explorer-studio.genlayer.com/contracts/0x20e1Bf44997dC3Bf89A776f95dB672fD712e1a5e
+  https://explorer-studio.genlayer.com/address/0x20e1Bf44997dC3Bf89A776f95dB672fD712e1a5e
 - Live assessment: `google/gemma-2-9b-it`
 - Assessment transaction:
   https://explorer-studio.genlayer.com/tx/0x854d5c8701115a698598bcf36e520038edf5665988612c3646095967c4f7d0ef

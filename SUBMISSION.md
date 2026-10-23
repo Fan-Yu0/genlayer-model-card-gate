@@ -30,7 +30,7 @@ registries, AI marketplaces, DAOs, and procurement contracts.
   https://github.com/Fan-Yu0/genlayer-model-card-gate
 - Contract: `0x20e1Bf44997dC3Bf89A776f95dB672fD712e1a5e`
 - Contract Explorer:
-  https://explorer-studio.genlayer.com/contracts/0x20e1Bf44997dC3Bf89A776f95dB672fD712e1a5e
+  https://explorer-studio.genlayer.com/address/0x20e1Bf44997dC3Bf89A776f95dB672fD712e1a5e
 - Deployment transaction:
   `0x0e68d96aa933d8d109d1d0c08e0235b87aebbb5c0d3f5ac68fe98e6a45d356b4`
 - Deployment Explorer:
